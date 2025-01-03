@@ -172,7 +172,7 @@ span{
     position: relative;
 }
 .typing-text span::before{
-    content: "Machine Learning Engineer";
+    content: "ML Engineer";
     color: #b74b4b;
     animation: words 20s infinite;
 }
